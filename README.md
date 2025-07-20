@@ -1,1 +1,3 @@
-Exercicios básicos e adjacentes em python, utilizando também do jupyter notebook
+# 📘 Exercícios Básicos e Adjacentes em Python com Jupyter Notebook
+
+Este repositório contém uma coleção de exercícios práticos em Python ( iniciantes e intermediários ) 
